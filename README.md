@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taslim19
-- 👀 I’m interested in ... lodt somewhere
+- 👀 I’m interested in ... lost somewhere
 - 🌱 I’m currently learning ... nothing?
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... telegram @tfdrag 

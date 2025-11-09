@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @taslim19
-- 👀 I’m interested in ... lost somewhere
+- 👀 I’m interested in ... cybersec <3
 - 🌱 I’m currently learning ... nothing?
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... telegram @tfdrag 
+- 📫 How to reach me ... telegram @dragbackup
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

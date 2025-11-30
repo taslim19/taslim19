@@ -6,7 +6,7 @@
 ### <div align="center">I'm taslim, a full-time student interested in learning new things </div>  
   
 
-- 🔭 I’m currently working on [mini-cloud stroage]
+- 🔭 I’m currently working on [mini-cloud storage]
 (https://github.com/taslim19/s3-file-uploader)  
   
 
